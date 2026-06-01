@@ -1,6 +1,6 @@
-# Medios de pago - Alfredo Lopez
+# Medios de pago - Shownet Py
 
-Pagina web estatica para compartir con clientes y mostrar los medios de pago de Alfredo Lopez en un solo enlace.
+Pagina web estatica para compartir con clientes y mostrar los medios de pago de Shownet Py en un solo enlace.
 
 ## Metodos incluidos
 

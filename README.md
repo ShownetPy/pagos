@@ -14,4 +14,4 @@ Pagina web estatica para compartir con clientes y mostrar los medios de pago de 
 
 ## Enlace publico esperado
 
-https://shownetpy.github.io/pagos/alfredo-lopez/
+https://shownetpy.github.io/pagos/shownet-py/
